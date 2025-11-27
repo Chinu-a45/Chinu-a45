@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chindan Kushwaha</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer | Data Science Enthusiast</h3>
+<h3 align="center">MCA Student | Full-Stack Developer | Data Science Enthusiast</h3>
 <p align="center">
   <img src="https://yt3.googleusercontent.com/jyFiRrzhZqLG1sthD9ntoJmzljZAb0yKbHmGuk5QBQhr0piIfva7oL0fl8bAOEeLXSXk8BBK1aE=s160-c-k-c0x00ffffff-no-rj" alt="profile views" />
 </p>
