@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chindan Kushwaha</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer | Data Science Enthusiast</h3>
+<h3 align="center">Computer Science Student | Full-Stack Developer</h3>
 <p align="center">
   <img src="https://yt3.googleusercontent.com/jyFiRrzhZqLG1sthD9ntoJmzljZAb0yKbHmGuk5QBQhr0piIfva7oL0fl8bAOEeLXSXk8BBK1aE=s160-c-k-c0x00ffffff-no-rj" alt="profile views" />
 </p>
@@ -12,10 +12,9 @@ I'm a passionate computer science student with a strong foundation in **programm
 
 - 🔭 Currently working on **Full-Stack MERN Projects**
 - 🌱 Learning **MongoDB, Express.js, React.js, Node.js**
-- 💡 Strong background in **Data Structures & Algorithms**, **Data Science**, and **System Programming**
+- 💡 Strong background in **Data Structures & Algorithms** and **System Programming**
 - 🎯 Exploring the intersection of **Web Development** and **Data-Driven Applications**
 - 📺 Content creator sharing tech insights on YouTube
-- 💬 Ask me about **DSA, Python, Data Science, or Web Development**
 
 ---
 
